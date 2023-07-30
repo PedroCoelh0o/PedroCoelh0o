@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
+![mario_broz](https://github.com/PedroCoelh0o/PedroCoelh0o/assets/118675897/50bfa178-8529-4714-b96c-1fd46f65994e)
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Coelho;I'm+28+years+old;I'm+from+Brazil;I+Graduated+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>  
